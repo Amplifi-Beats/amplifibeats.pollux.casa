@@ -1,0 +1,18 @@
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+# Amplifi's website!
+I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
+* Music Production
+* Coding (duh)
+* Linux
+* Websites
+
+## Log
+=> log/hello.gmi 06-04-21 - Hello World!
+=> log/4-6-21_1.gmi 06-04-21 - How I make music!
