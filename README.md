@@ -1,2 +1,2 @@
 # amplifibeats.pollux.casa
-the source for my gemini site
+the source for my gemini capsule
