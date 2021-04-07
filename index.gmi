@@ -14,5 +14,19 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 * Websites
 
 ## Log
-=> log/hello.gmi 06-04-21 - Hello World!
-=> log/4-6-21_1.gmi 06-04-21 - How I make music!
+=> log/hello.gmi 2021-04-06 - Hello World!
+=> log/6-4-21-howimakemusic.gmi 2021-04-06 - How I make music!
+=> log/FileDump.gmi 2021-04-07 - File dump (updated frequently?)
+
+
+### Aspirations
+* do some scriping related stuff - saw a cool tic tac toe thing, might be interesting
+* do a better ASCII Banner
+* make a gemini client? can't be that hard i suppose
+* Upload some project files (flp and rrp) & make an
+=> https://github.com/makeworld-the-better-one/amfora/ amfora  config
+* learn how to format stuff better, like ^ that's so messy
+
+
+### Cool stuff on the smolnet
+=> gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe!

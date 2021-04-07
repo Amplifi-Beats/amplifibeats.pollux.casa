@@ -1,0 +1,59 @@
+=> ../index.gmi Go back!
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+
+
+```
+ _____
+|x - +|_________T͢e͢r͢m͢i͢n͢a͢l͢___________________________
+|                                                 |
+|user@amplifibeats.pollux.casa-$ echo Hello world!|
+|    Hello World!                                 |
+|_________________________________________________|
+```
+
+# File dump?
+i'll be linking stuff here, most of it will be hosted on http(s), but smaller files will be hosted here (Thanks Adële)
+
+## cool stuff i found
+```
+                          _______
+                         | ___  o|
+                         |[_-_]_ |
+      ______________     |[_____]|
+     |.------------.|    |[_____]|
+     ||            ||    |[====o]|
+     ||            ||    |[_.--_]|
+     ||            ||    |[_____]|
+     ||            ||    |      :|
+     ||____________||    |      :|
+ .==.|""  ......    |.==.|      :|
+ |::| '-.________.-' |::||      :|
+ |''|  (__________)-.|''||______:|
+ `""`_.............._\""`______
+    /:::::::::::'':::\`;'-.-.  `\
+   /::=========.:.-::"\ \ \--\   \
+   \`""""""""""""""""`/  \ \__)   \
+    `""""""""""""""""`    '========'
+```
+
+Art by Joan G. Stark
+
+
+
+
+## Artwork
+All artwork is made with Blender/Gimp/Inkscape and is All rights reserved, unless otherwise noted
+
+=> https://i.imgur.com/PFAVQ23.png My logo (Gothic "A" with some flora surrounding it)
+=> https://i.imgur.com/FRzGwia.png Artwork for my song Serac (An iridescent bg with a glacier/serac layered through a mac os 9 window)
+=> https://i.imgur.com/ilWGTW9.png ASCII art of my logo, but as an image cos I'm stupid
+=> https://i.imgur.com/qid8AbN.png the aformentioned ASCII logo on a win95 style background, for my github website (http)
+=> https://i.imgur.com/EHGmJhU.png artwork for a remix of Havana (by me lol), for copyright reasons it's not on my soudcloud, but I'll figure something out

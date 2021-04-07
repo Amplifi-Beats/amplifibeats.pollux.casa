@@ -1,0 +1,40 @@
+=> ../index.gmi Go back!
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+
+# How i make music!
+I use software called FL Studio (20.8 Producer edition), I know it's not open source, please don't kill me!
+I also use Reaper periodically, I got my start on LMMS.
+My favourite software synth is Vital (FOSS!) and my favourite effect is either Halftime (by cableguys) or CHOWTAPE by ChowDSP (more FOSS!)
+I use windows, because WINE isn't perfect, yet. I have a number of Linux VM's at my disposal too, among them:
+
+* Elementary OS
+* Manjaro
+* REACT OS (not linux, ofc)
+
+## Where you can bless your ears/eyes!
+(http)
+=> https://soundcloud.com/amplifi-beats Souncloud
+=> https://reddit.com/u/amplifi-beats Reddit
+=> https://github.com/amplifi-beats Github
+
+
+### Am I any good at coding?
+```
+
+ _   _  ___  ___
+| | | |/ _ \/ __|
+| |_| |  __/\__ \
+\__, |\___||___/
+ __/ |
+|___/
+
+```
+=> https://amplifi-beats.github.io proof (http bloat)
