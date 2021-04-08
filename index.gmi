@@ -4,19 +4,22 @@
   / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
  / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
 /_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+                  |_|
+est. April 2021
 ```
 
 # Amplifi's website!
 I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 * Music Production
 * Coding (duh)
-* Linux
+* linux, and other "nix'es"
 * Websites
 
 ## Log
 => log/hello.gmi 2021-04-06 - Hello World!
 => log/6-4-21-howimakemusic.gmi 2021-04-06 - How I make music!
 => log/FileDump.gmi 2021-04-07 - File dump (updated frequently?)
+=> log/8-4-21-thoughtsongem.gmi 2021-04-08 - Thoughts on the Gemini Protocol
 
 
 ### Aspirations
@@ -30,3 +33,15 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 ### Cool stuff on the smolnet
 => gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe!
+
+```
++-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/
+```
+
+### where can you find me?
+* github / gitlab : amplifi-beats
+* discord : amplifi#3232
+* soundcloud: amplifi-beats
+* gemini lol - here!
+
+more to come, i hope
