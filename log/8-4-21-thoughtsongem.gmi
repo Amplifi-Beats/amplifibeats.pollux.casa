@@ -13,7 +13,7 @@
 
 * it's FAST
 * it's really easy to make a capsule; using a host or selfhosting, like agate or similar
-* it's smol; the amount of pages, users and the file size
+* it's ˢᵐᵒˡ; the amount of pages, users and the file size
 for example:
 
 
