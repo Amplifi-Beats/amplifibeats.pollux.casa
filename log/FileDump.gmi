@@ -20,7 +20,7 @@
 ```
 
 # File dump?
-i'll be linking stuff here, most of it will be hosted on http(s), but smaller files will be hosted here (Thanks Adële)
+i'll be linking stuff here, most of it will be hosted on http(s), but smaller files may be hosted here (Thanks to Pollux!)
 
 ## cool stuff i found
 ```
@@ -44,7 +44,7 @@ i'll be linking stuff here, most of it will be hosted on http(s), but smaller fi
     `""""""""""""""""`    '========'
 ```
 
-Art by Joan G. Stark
+^ by Joan G. Stark
 
 
 

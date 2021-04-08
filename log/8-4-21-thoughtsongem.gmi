@@ -14,42 +14,6 @@
 * it's FAST
 * it's really easy to make a capsule; using a host or selfhosting, like agate or similar
 * it's ˢᵐᵒˡ; the amount of pages, users and the file size
-for example:
-
-
-the alpha markup - gemini
-```
-  _______________
-1|# hello world!  |
-2|here is a list: |
-3|* 1             |
-4|* 2             |
-5|* 3             |
- |________________|
-
-```
-## versus
-
-
-sigma bloat - html
-```
-  ____________________________
-1 | <!DOCTYPE html>           |
-2 | <html>                    |
-3 | <body>                    |
-4 | <h1> hello world! </h1>   |
-5 | <p> here is a list: </p>  |
-6 |  <ul>                     |
-7 |   <li>1</li>              |
-8 |   <li>2</li>              |
-9 |   <li>3</li>              |
-10|  </ul>                    |
-11| <br>                      |
-12| <body>                    |
-13| </html>                   |
-14|___________________________|
-
-```
-
 * It's respecting the UNIX philosophy, your web browser is just a web browser, not a video player, music player, image viewer, pdf viewer, etc. You will have preffered applications designed for that. In theory at least.
 * It provides better access to the internet for those on terrible internet connections, just under 1,000,000 people in the US have dial up. But what if all you want to do on the internet is read blogs/articles and gain knowledge through text? That's probably why you're here, although I'm not particularly interesting or knowledgable. Gemini allows that, instead of Gopher, which had many a flaw, this protocol is safer, obviously less functional than http, but if you want blocks of text, you've come to the right place!
+* in about 45 lines of html, you'd have the same content as about 10 lines of gemini. And you'd need css to have it look the same, so not very efficient, and this is coming from a front end web dev!

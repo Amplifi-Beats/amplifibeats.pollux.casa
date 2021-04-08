@@ -33,6 +33,7 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 ### Cool stuff on the smolnet
 => gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe!
+=> gemini://gemini-textboard.fgaz.me a message board, wow!
 
 ```
 +-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/
@@ -40,7 +41,6 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 ### where can you find me?
 * github / gitlab : amplifi-beats
-* discord : amplifi#3232
 * soundcloud: amplifi-beats
 * gemini lol - here!
 
