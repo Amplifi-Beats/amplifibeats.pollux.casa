@@ -1,0 +1,96 @@
+=> ../index.gmi Go back!
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+preface: most of these are Windows/Android, I'll make sure to link the websites/repos and platforms, maybe pros and cons too?
+Also, the list should be alphabetical, and if something isn't free I'll make it clear.
+
+# KEY
+Paid = ¬
+Propietary = ~
+
+### 7-zip - Windows/Linux/Mac/BSD/Solaris/Amiga/AIX
+the best file manager/compression/decompression in the world! Or at least, I'd like to think so. Official build is Windows, but open source being open source means it's everywhere!
+=> https://www.7-zip.org/download.html
+
+### Blender - Windows/Linux/Mac
+An amazing 3d modelling software, I use it for some video editing too, although it's clealy not it's primary function. I have friends who swear by it, doing simulations and crazy renders, I did the beginner's doughnut and I found it fun
+=> https://blender.org
+ 
+### Firefox - Windows/Linux/Mac/Android/iOS
+Firefox is a great browser, not based on Chromium, if we were talking Chromium based, then Ungoogled Chromium or (new) Edge would win, and bromite for android. But I'm going to talk about Firefox, based on Gecko, very fast, a wealth of privacy tools, etc. It balances individuality, privacy and features. There were some controversy surrounding mozilla, but to be honest, I don't care, Librewolf is a decent fork if you're into that. I have a custom css config that I can share, it's a modified Nord config, stolen from someone on Deviantart, I'll attatch it and credit when I find it again
+=> https://mozilla.org
+
+### FL Studio (¬ ~) - Windows/Mac
+Just to clarify, you can run on Linux, but through WINE, not a great idea. Also, the free trial lets you do everything except reopen a project file, which isn't a big deal tbh. imo the BEST DAW out there! A very different workflow deigned for easy drum sequencing and MIDI interfacing. Great for electronic music, thus, great for me! Recording audio is, for some reason, complex. That's where I would use Reaper generally. FL has native plugin bridging, great for using 32bit abandonware. You can use FL for 100% free with their archive of older versions, obviously less features, but is a bit of fun.
+=> https://www.image-line.com/
+=> https://forum.image-line.com/viewtopic.php?f=200&t=194258 Older version archive, Windows only (the WINE thing still applies though)
+
+### GIMP - Windows/Linux/Mac
+Who needs Photoshop? This does pretty much everything, to varying degrees of success. All for free! Part of the GNU project, there's a fork for android, but it's not great. All in all great for editing pictures and making album artwork.
+=> https://gimp.org
+
+### Inkscape - Windows/Linux/Mac
+Adobe Illustrator is the alternative, or at least that's what using Inkscape feels like, it's sooo great, I do very little vector stuff, but since version 1.0 of Inkscape it's been great (dark mode!!!)
+=> https://inkscape.org/
+
+### Musescore - Windows/Linux/Mac
+I'm talking about the notation btw, not the sheet music distribution service! This is soon to become a DAW, apparently, definitely gonna try that out. I'm using this to learn music theory, cos that's useful for aspiring to study music, weirdly enough. The musescore service is terrible, some arrangments of classical music (in public domain!!!) require a paid account. It makes sense for creative arrangments, where it's clearly a different spin on the same piece, but when someone just downloads a midi and uploads to Musescore, that grinds my gears.
+=> https://musescore.org/en
+
+### notepad++ - Windows
+This runs through WINE suprisingly well, there are even wine builds in some official repos! This editor is first in class for nearly everything, UI is a little subpar (in my humblest of opinions) and I don't believe there is a Git plugin or gmi syntax highlighting. The ones on VS Code work, the gmi one not super well, but whatever. And yes, I use VS Code, sosumi
+=> https://notepad-plus-plus.org/
+
+### Plex 
+* Plexamp - Windows/Linux/Mac/Android/iOS
+* Plex client - Windows/Linux/Mac
+* Plex Server - Windows/Linux/Mac/BSD
+
+There is a Plex media server in my place of living, maintained by another member of the family, so I've only experienced the clients, and I love them, Plexamp is amazing looking and vanilla plex is pretty good, plexamp is annoying when it encounters a song I've played before, it starts where I last stopped. Which for shuffling, isn't fun. Maybe that's been patched since idk. I don't belive Plexamp is OSS, and I'm not sure about the server. I won't flag them, but yeah.
+=> https://plexamp.com/#downloads
+=> https://www.plex.tv/media-server-downloads/#plex-app
+=> https://www.plex.tv/media-server-downloads/#plex-media-server
+
+### Reaper (¬) - Windows/Mac/Linux
+Offical Linux builds (beta) and WINE builds too!
+This is technically paid software, but it's a winrar kinda thing. Obviously buy the software if you want to support the devs, I going to, after I buy a new PC (much hype!). This DAW runs on really bad hardware and really good hardware, you can theme to your hearts content (that's me sorted hehe) and you can add some crazy extensions, this is less music production, more recording/mixing/scoring and batch rendering, it does everything and more, but it's not always super clear how to do x. You will know the forum URL off by heart XD
+=> http://reaper.fm/download.php
+
+### Scoop - Windows
+package manager, what more do I say? The buckets (repos) are full of good stuff, there's chocolatey as an alternative, but I've never tried it. Makes Windows Terminal feel more justified.
+
+=> https://scoop.sh
+
+### ShareX - Windows
+Screen capturing, recording, colour picker, uploading, image editing, qr codes, ruler, monitor testing, everything! It's the best toolkit, although I prefer the powertoys colour picker (for the GUI, sharex has more funcionality)
+
+=> https://getsharex.com
+
+### VS Code (~) - Windows/Linux/Mac
+As explained above, we got Git and gemini stuff, can run amfora to the right and it's all good. Also, theming! The main source code is OSS, but microsoft telemtry and other lovely stuff is propietary, OSS forks are availabe too.
+=> https://code.visualstudio.com/
+
+### Vital - Windows/Linux/Mac
+Paid tiers are available, just extra presets. Literally the only synth you'd need for production. Wavetable, spectral and everything in between. The dev, Matt Tytel, has other FOSS stuff too!
+
+=> https://vital.audio/
+
+### Virtualbox - Windows/Linux/Mac/Solaris
+Vm's made fairly simple, osboxes.org has prebuilt vm's, you download a vdi and click start, very handy for some os'es, im looking at you arch!
+=> https://www.virtualbox.org/
+
+### Windows Sandbox (¬ ~) - Windows
+technically not paid, but requires windows 10 pro, maybe you didn't buy off microsoft for some unknown reason and now you have some extra money in your pocket? How on earth is that possible? Great for testing out a download that you don't trust, or just changing registry and all. Personally wouldn't test malware on it, but idk, maybe you would? You'd enable in Windows Features, link below is a guide
+
+=> https://techcommunity.microsoft.com/t5/windows-kernel-internals/windows-sandbox/ba-p/301849
+
+### Windows Terminal - Windows
+ditch cmd and powershell, this packages them up with Azure (never used it lol) and WSL (might try soon). There's a microsoft store package, if you're into that
+=> https://github.com/microsoft/terminal
