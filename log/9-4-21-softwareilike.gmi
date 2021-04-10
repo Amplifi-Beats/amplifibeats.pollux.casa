@@ -1,4 +1,4 @@
-=> ../index.gmi Go back!
+=> ../index.gmi [..]
 
 ```
     _                    _ _  __ _   _                _       
@@ -22,10 +22,17 @@ the best file manager/compression/decompression in the world! Or at least, I'd l
 ### Blender - Windows/Linux/Mac
 An amazing 3d modelling software, I use it for some video editing too, although it's clealy not it's primary function. I have friends who swear by it, doing simulations and crazy renders, I did the beginner's doughnut and I found it fun
 => https://blender.org
+
+### Dolphin Emulator - Windows/Linux/Mac/Android
+Emulating Gamecube and Wii has never been easier, unless you're on a crappy laptop with an igpu. Works quite well and netplay is mind blowing!
+=> https://dolphin-emu.org/
+=> https://dolphinios.oatmealdome.me/ the iOS fork
+
  
 ### Firefox - Windows/Linux/Mac/Android/iOS
 Firefox is a great browser, not based on Chromium, if we were talking Chromium based, then Ungoogled Chromium or (new) Edge would win, and bromite for android. But I'm going to talk about Firefox, based on Gecko, very fast, a wealth of privacy tools, etc. It balances individuality, privacy and features. There were some controversy surrounding mozilla, but to be honest, I don't care, Librewolf is a decent fork if you're into that. I have a custom css config that I can share, it's a modified Nord config, stolen from someone on Deviantart, I'll attatch it and credit when I find it again
 => https://mozilla.org
+=> https://www.deviantart.com/dpcdpc11/art/Nord-for-Firefox-837860916 the original Nord theme
 
 ### FL Studio (¬ ~) - Windows/Mac
 Just to clarify, you can run on Linux, but through WINE, not a great idea. Also, the free trial lets you do everything except reopen a project file, which isn't a big deal tbh. imo the BEST DAW out there! A very different workflow deigned for easy drum sequencing and MIDI interfacing. Great for electronic music, thus, great for me! Recording audio is, for some reason, complex. That's where I would use Reaper generally. FL has native plugin bridging, great for using 32bit abandonware. You can use FL for 100% free with their archive of older versions, obviously less features, but is a bit of fun.

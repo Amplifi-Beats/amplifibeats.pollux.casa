@@ -10,30 +10,40 @@ est. April 2021
 
 # Amplifi's website!
 I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
-* Music Production
-* Coding (duh)
-* linux, and other "nix'es"
-* Websites
+* Music Production and rapping (which i'm trash at)
+* Coding html/css and gemini markup (duh)
+* linux, and other operating systems
+* Websites and weird software
+
+## Stuff i've done
+(http)
+=> https://raw.githubusercontent.com/Amplifi-Beats/gemini-stuff/main/configs/config.toml Amfora config
+(gemini)
+=> log/9-4-21-softwareilike.gmi compiled a list of software i like
+
+i will add more when i get a bigger brain
+
+
 
 ## Log
-=> log/hello.gmi 2021-04-06 - Hello World!
-=> log/6-4-21-howimakemusic.gmi 2021-04-06 - How I make music!
-=> log/FileDump.gmi 2021-04-07 - File dump (updated frequently?)
+=> log/9-4-21-softwareilike.gmi 2021-04-09 - Software I like
 => log/8-4-21-thoughtsongem.gmi 2021-04-08 - Thoughts on the Gemini Protocol
+=> log/FileDump.gmi 2021-04-07 - File dump (updated frequently?)
+=> log/6-4-21-howimakemusic.gmi 2021-04-06 - How I make music!
+=> log/hello.gmi 2021-04-06 - Hello World!
 
 
 ### Aspirations
 * do some scriping related stuff - saw a cool tic tac toe thing, might be interesting
 * do a better ASCII Banner
 * make a gemini client? can't be that hard i suppose
-* Upload some project files (flp and rrp) & make an
-=> https://github.com/makeworld-the-better-one/amfora/ amfora  config
-* learn how to format stuff better, like ^ that's so messy
+* Upload some project files (flp and rrp)
+* learn how to format stuff better
 
 
 ### Cool stuff on the smolnet
-=> gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe!
-=> gemini://gemini-textboard.fgaz.me a message board, wow!
+=> gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe
+=> gemini://gemini-textboard.fgaz.me a message board
 
 ```
 +-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/
