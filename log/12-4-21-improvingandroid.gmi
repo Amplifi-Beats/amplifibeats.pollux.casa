@@ -1,0 +1,86 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+# Improving Android 101
+
+To start: Risks can be associated with modifying and customising any operating system, all items listed below are tested and used day-to-day, but I cannot guarantee the security and stability of anything done after the reading of this gemlog. Please feel free to try these out at your own risk, I cannot be held responsible for anything going wrong or any damage potentially caused. Feel free to contact me on the handles provided on the index to discuss (and be nice!)
+
+# Specs and another preface
+
+## Hardware (source: https://gmsarena.com)
+* Phone model: Samsung Galaxy M20 (Global Variant)
+* CPU & GPU: Exynos 7904 (14 nm) (8 core) & Mali-G71 MP2
+* Memory: 4GB & 32GB (Internal: eMMC 5.1) | 32GB (Micro SD)
+* Connectvity: Wi-Fi 802.11 b/g/n , Bluetooth 5.0, GPS, Gyroscope, NFC
+* Battery: 5000 mAh Li-Po with Fast charging (15w)
+
+## Software
+System
+* Operating System: Android 10 (Q)
+* OEM User Interface: One UI Core 2.0
+User
+* Home Launcher: Nova Launcher 7.0 Prime (Beta)
+* Theming: #HEX_ Installer+ , [adb] FNG , Volume Styles
+* Screen mirror: [adb] scrcpy (desktop)
+
+I will go into detail about whether apps are free or paid or they need special requirements
+
+# App hall of fame
+* Ariane [F-Droid/Play] - Gemini browser, behaves well, has a great GUI and other lovely bits and pieces
+
+* Aurora Store [F-Droid] - Google play client, allows anonymous (to google) usage and you can spoof location and device. I've never used spoofing due to the nature of needing a vpn connection. I do use it to install apps that I don't want tied my Google Account
+
+* F-Droid [APK] - A store for FOSS apps and can do updating. Some other clients have better features:
+* GDroid - Reviews and comments for apps, better meta handling and metrics. If you like that (no dark mode!)
+* Aurora Droid - Looks amazing, that's kind of it. The search is broken and the app can break sometimes
+* Foxy Droid - a classic F-droid design, nothing special or spooky. Very light
+
+* Fluid Navigation Gestures [Play][ADB] - Much nicer way of navigating when you're stuck on older One UI. the free version has plenty of functionality. With ADB you can disable vanilla nav.
+
+* (Firefox) Lockwise [Play] - Password manager, I'd only recommend to users of the Mozilla Ecosystem. thus, I like it.
+
+* Mubert [Play] - AI music generation, the free tier works without major limits. Great for just playing some bg music instead of spamming skip in a shuffle. The music isn't super rich in variation, mostly 4-8 bar loops being triggered. Still sounds great!
+
+* Nova Launcher [Play/APK] - (The beta is only in the discord as an apk) The best launcher for android, amazing customising capability and level of control. Isn't super unique in looks, but lets you make it unique. The launcher of choice for many
+
+* Relay for Reddit [Play] - A nice reddit client, paid version removes ads. Better than the 1st party app. The navigation is easy to understand and use well.
+
+* Snapseed [Play] - amazing photo editor; beats Adobe Lightroom (and Photoshop Express) by miles! It's by Google, not sure if that's worth mentioning
+
+* Termux [Play/F-Droid/APK] - Terminal emulator/Linux environment/etc. It's amazing! Great for doing some desktop stuff you can't do on android, doing root stuff (apparently anyway). I used this to install a Linux distro (termux-desktop). You can run anything on this!
+
+* Volume Styles [Play] - customising the ugly volume dialogs in android, no spooky permissions asked, ads and limitations in the free version.
+
+* Geometric Weather [Play/F-Droid] - The nicest looking weather app for when I check (rarely). Can be used as a live wallpaper too!
+
+* Youtube Vanced/YT Music Vanced [APK] - The best Youtube Experience, while experiencing Youtube. Alternatives like Freetube and Newpipe look like ass, and don't have loads of features. Youtube Vanced isn't 100% OSS though, it's still using Youtube propietary bloat lol. No ads, background play, etc.
+
+* #hex_ [Play] {PAID} - theming for One UI made really easy!
+
+
+## Things to change to improve android
+* changing dns to: dns.adguard.com will remove ads, without vpn or root! Although the ad element (the placeholder) won't be removed, for that you'd want the Adguard app (root or vpn)
+* tap the build number in system info 7 times to unlock developer options, enable: WiFi throttling (will improve wifi performance, potential cost of battery though.).
+* backup with Swift Backup to put everthing in one place and if your phone resets or whatever, you have a very easy restore. Instead of the usual Google Drive, OEM Storage, etc.
+* install a VM, just a sandboxed environment to test apps you don't know work (do this on your phone or your desktop)
+* go to forums! Reddit, XDA, Github/lab/etc. to verify info!
+* disable play protect, it's bullshit
+
+
+
+### FAQ?
+* Some info is wrong here, how do I make you aware you're dumb?
+ make a pull request or raise an issue to edit this document, contributions will be credited on the page.
+* Is ADB safe?
+ Yes, unless you're entering commands that you don't understand, learn the debugging commands and ask in forums!
+* Is Root safe?
+ Yes, depending on your country, this page doesn't provide legal advice. So check your region's laws to make sure you can root. It's perfectly safe, and can be masked (to varying degrees of success) against apps that won't work with a rooted device. If you're not sure, try it out on a spare phone, without warranty. Because rooting may remove any warrany on your device!
+* What should I do to stay secure?
+ Don't click on links you can't verify are legit. Only download apps from the developer's site/repo or major stores like F-Droid or Google Play. You don't need antivirus, or a vpn (unless you want to access regionlocked stuff or remain a tad bit more anonymous). Play protect doesn't really work, so just be a bit more savvy.

@@ -21,16 +21,17 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 (gemini)
 => log/9-4-21-softwareilike.gmi compiled a list of software i like
 
-i will add more when i get a bigger brain
 
 
 
 ## Log
-=> log/9-4-21-softwareilike.gmi 2021-04-09 - Software I like
-=> log/8-4-21-thoughtsongem.gmi 2021-04-08 - Thoughts on the Gemini Protocol
-=> log/FileDump.gmi 2021-04-07 - File dump (updated frequently?)
-=> log/6-4-21-howimakemusic.gmi 2021-04-06 - How I make music!
-=> log/hello.gmi 2021-04-06 - Hello World!
+=> log/12-4-21-improvingandroid.gmi 2021-04-12 - [tutorial] Improving Android
+=> log/12-4-21-rantbkswear.gmi 2021-04-12 - [RANT] Burger King and Swear Words
+=> log/9-4-21-softwareilike.gmi 2021-04-09 - [resource] Software I like
+=> log/8-4-21-thoughtsongem.gmi 2021-04-08 - [personal] Thoughts on the Gemini Protocol
+=> log/FileDump.gmi 2021-04-07 - [resource] File dump (updated frequently?)
+=> log/6-4-21-howimakemusic.gmi 2021-04-06 - [personal] How I make music!
+=> log/hello.gmi 2021-04-06 - [ingore lmao] Hello World!
 
 
 ### Aspirations
