@@ -60,3 +60,35 @@ Italian layout for typewriters, although computer keyboards mostly use QWERTY:
 => https://wiki2.org/en/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg#/media/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg examples of 100,80 and 60% keyboard layouts
 
 ### DVORAK
+=> https://en.wikipedia.org/wiki/File%3AKB_United_States_Dvorak.svg Dvorak layout
+
+named after it's author, August Dvorak. the most common keys are found in the home row
+
+### Colemak
+=> https://en.wikipedia.org/wiki/File%3AKB_US-Colemak.svg Colemak US
+
+basically Dvorak and QWERTY's love child, makes it easier to learn for the uninitiated without sacrificing efficiency
+
+### Neo
+=> https://en.wikipedia.org/wiki/File%3ANeo_2.0-Tastaturbelegung_Ebene1.svg Neo layer 1
+
+The positions of the letters are not only optimised for German letter frequency, but also for typical groups of two or three letters. English is considered a major target as well.
+
+
+=> https://en.wikipedia.org/wiki/File%3ANeo_2.0-Tastaturbelegung_Ebene3.svg Neo layer 3
+
+the layers appear to allow many different character sets, although I haven't a clue
+
+
+### Hex
+=> https://en.wikipedia.org/wiki/File%3AHexagonal_keyboard_layout.png hexagonal layout
+
+The honeycomb layout has hexagon keys and was invented by Typewise in cooperation with the ETH Zurich
+
+
+### somewhat honourable mentions
+=> https://en.wikipedia.org/wiki/File%3AKB_Maltron_3D_US.svg Maltron 3D
+
+
+### postscript
+this article was written on my phone, expect spelling mistakes. I turned off autocorrect in Florisboard (which is an amazing keyboard btw. qwerty ofc)
