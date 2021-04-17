@@ -1,0 +1,62 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+# Keyboard Layouts - An introduction
+
+Let's steal a paragraph from wikipedia:
+> A keyboard layout is any specific physical, visual or functional arrangement of the keys, legends, or key-meaning associations (respectively) of a computer keyboard, mobile phone, or other computer-controlled typographic keyboard.
+
+Keyboards are really cool! There are computer ones, software ones, and music ones. But I'll be writing about computer ones, and a bit of software too.
+
+## How do keyboards work?
+(this is a very high-level idea of how they work)
+When a key is pressed or actuated, it sends a scancode to your operating system. This details the key's row and column, not the character. The OS will convert this scancode into a binary character, using a conversion table (aka keyboard mapping). This allows you to totally change what is typed on a page, without physically changing the keyboard keys.
+
+### Key types
+(care is taken to include major OS specific keys)
+* Character keys - letters, numbers, (most) punctuation, and space
+* Modifier keys - Super/Windows, Shift, Ctrl/Cmd, Alt/Cmd, Alt Gr (alternative graphic)/Option
+* Dead keys - ` (type ` and then "a", which will give you à)
+* System keys - PrtSc, Break (Ctrl+C in unix-like), Esc, Enter, Shift, Super/Windows
+
+## Layouts
+
+### QWERTY
+
+=> https://wiki2.org/en/File:Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png#/media/File:Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png QWERTY layouts and variants
+
+Made when typewriters were made, designed to be slow to prevent the keys jamming, all the common keys are as far away from each other as possible. Though that won't stop me type at ~112 wpm
+
+This is the most common layout, the most common variant being the ISO (UK) as apposed to ANSI (US)
+
+### AZERTY
+=> https://commons.wikimedia.org/wiki/File:KB_France.svg#/media/File:KB_France.svg French layout
+French/Belgian layout
+
+### QWERTZ
+=> https://commons.wikimedia.org/wiki/File:German-Keyboard-Layout-T2-Version1-large.png#/media/File:German-Keyboard-Layout-T2-Version1-large.png German T2 layout
+Central European "kezboard" layout, this exists because of two very important reasons:
+
+* T & Z often appear together in German, typewriters could jam, so placing them further apart would reduce the risk
+* Z & U appear together (zu meaning "to" auf Deutsch) so it's easier to write.
+Then there are umlauted characters
+
+
+### QZERTY
+> no image reference availabe
+
+Italian layout for typewriters, although computer keyboards mostly use QWERTY:
+* Z & W are swapped
+* M is moved from the right of N to L. Like AZERTY
+
+## Sizing and stuff
+=> https://wiki2.org/en/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg#/media/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg examples of 100,80 and 60% keyboard layouts
+
+### DVORAK
