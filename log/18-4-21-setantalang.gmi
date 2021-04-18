@@ -64,7 +64,7 @@ meaning: setanta write("hello world!")
 
 an interesting feature is that fada usage doesn't matter, the word "scríobh" (pronounced: shkree-uhv) is spelled with an "Í" (which can be typed with AltGr + Shift + i) can be written as "scriobh" and yield the same results.
 
-=> files/sierpinski.set a Sierpinski triangle demo made with Setanta (You will need Setanta installed to use, alternatively use the following link)
+=> https://gist.github.com/Amplifi-Beats/4fb3fa5b37888fde9616884540de5fc0 a Sierpinski triangle demo made with Setanta (You will need Setanta installed to use, alternatively use the following link)
 => https://try-setanta.ie/editor/EhEKBlNjcmlwdBCAgIDg2pGeCg Online demo
 
 This project is an amazing idea, and I'm so glad I found it, flicking through the explore tab has some great results!
