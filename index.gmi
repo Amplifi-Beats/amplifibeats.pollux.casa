@@ -25,6 +25,7 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 
 ## Log
+=> log/18-4-21-setantalang.gmi 2021-04-18 - [blog] Setanta Programming Language (as gaielge)
 => log/17-4-21-keyboardlayouts.gmi 2021-04-17 - [blog] Keyboard Layouts
 => log/12-4-21-improvingandroid.gmi 2021-04-12 - [tutorial] Improving Android
 => log/12-4-21-rantbkswear.gmi 2021-04-12 - [RANT] Burger King and Swear Words

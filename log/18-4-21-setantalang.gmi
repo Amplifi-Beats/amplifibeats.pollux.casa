@@ -1,0 +1,75 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _   _                _       
+   / \   _ __ ___  _ __ | (_)/ _(_) | |__   ___  __ _| |_ ___ 
+  / _ \ | '_ ` _ \| '_ \| | | |_| | | '_ \ / _ \/ _` | __/ __|
+ / ___ \| | | | | | |_) | | |  _| | | |_) |  __/ (_| | |_\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |_.__/ \___|\__,_|\__|___/
+```
+
+(there will be translations for the uncultured)
+
+
+=> https://try-setanta.ie/
+^ visit this to see the magic!
+
+# Setanta
+Setanta is a language for those who speak Irish, created by Eoin (Owen for the uninitiated) Davey, a man from County Sligo, he wanted a creative way of fostering the Irish language.
+
+> ‘I cycled through a lot of hobbies throughout my childhood, I tried my hand at magic, origami, soccer, karate, kickboxing, hurling, art, cardistry, electronics, running and countless other things,’
+
+> ‘I stuck with some things for only a few weeks, and other things I still do today. I always had a strong interest in learning, and my parents were always very supportive of that, answering all my annoying questions and bringing me in and out of the library. In primary school I had subjects I liked, and subjects I hated, but my standout favourite subjects were maths, Irish and science.’
+
+Eoin never tried CS until Transition Year in Secondary school (4th year in highschool, i think). Him and a friend set up a mini-company making android apps, he wanted to learn how to actually make them.
+
+> ‘I threw myself into the deep end of programming and tried to figure out the basics. A few months into trying to learn how to program, Google ran a programming competition for second-level students, and I decided to give it a shot. Through a lot of luck, I ended up placing 3rd overall, which, trust me, came as a bigger shock to me than anyone else.’
+
+He set coding aside at the tail end of TY, but when he was practicing his Irish oral, his teacher brought up a programming contest, the AIPO (All Ireland Programming Olympiad). Eoin ended up placing in a joint first place with 2 other participants.
+
+> ‘At this point, I had no computer science courses down on my CAO choices list, I had only physics and maths courses, I hadn’t really considered computer science, but the experience at the competition inspired me to change my mind. I knew I didn’t want to transfer fully to computer science, I wanted to keep the maths. I decided on a course called Computational Thinking (CT), that had a mix of maths and CS. I went on to study CT in Maynooth in 2016.’
+
+Eoin says that he always enjoyed learning Irish.
+
+> ‘I think I thought it was like a cool secret code. I also liked that it was ours, it was like our history or our myths and legends, it was something that identified Ireland,’
+
+In the summer of 2018, Eoin got the opportunity to move to Zürich and lived there for around 3 months. It was there that he met people from many different countries and he saw them all converse in their own languages, Spanish, Polish, Finnish, Russian, Mandarin, Hindi to list a few.
+Eoin continued his studies and headed abroad to Toronto for his third year. The University of Toronto had a competitive programming team and Eoin tried out for the team and made it. It was here that he had the spark for ‘Setanta’, his Irish language code.
+
+> ‘One of my teammates was Brazilian, and throughout the year I saw lots of code that was written in Portuguese, but one thing stood out to me. The actual code itself was in English, it was only the names and comments that were in Portuguese,’
+
+> ‘This was something that stuck with me, you couldn’t really program in a non-English language, all the mainstream programming languages had English words and terminology baked into them.  This is where I got the idea for making an Irish programming language, I thought it was the perfect opportunity to improve my own Irish and to take part in the modernisation of Irish.’
+
+Eoin teased out the idea with people to see what their response was and started planning for when he could start developing the language.
+
+>‘Making a programming language was going to require a huge effort and a lot of time. I knew I wanted to make the language from scratch. In theory, I could have taken an existing language and replaced all the keywords with Irish words. This would have technically achieved the goal but it only patches over the problem, it doesn’t solve it,’ 
+
+Eoin says that the name ‘Setanta’ actually came about a bit "unorganically".
+
+> ‘I had gotten tired of calling it “The Irish programming language” or “my final year project” so I sat down one evening and decided to name it,’
+> ‘I wanted to name it something Irish, but simple and familiar. I thought that Irish myths and legends were a good place to start with familiar Irish names, and where better to start than with one of the most famous, Cú Chulainn. I had thought about calling it Cú, or something similar for a while, but eventually, I decided that Setanta was a better fit. It’s a word that strongly identifies it as Irish while keeping the name simple.’
+
+> ‘The dream is to see Setanta used in education, in Gaelscoileanna or Gaelcholaistí, or just by people teaching their kids,’
+
+This language appears to be similar to python in it's syntax, although appears to be very limited. I wouldn't call it usable (at least in a large project), but it's a marvelous proof of concept
+
+```
+amp@lifi:~$ setanta scríobh("dia duit an domhain!")
+
+dia duit an domhain!
+```
+
+meaning: setanta write("hello world!")
+
+
+an interesting feature is that fada usage doesn't matter, the word "scríobh" (pronounced: shkree-uhv) is spelled with an "Í" (which can be typed with AltGr + Shift + i) can be written as "scriobh" and yield the same results.
+
+=> files/sierpinski.set a Sierpinski triangle demo made with Setanta (You will need Setanta installed to use, alternatively use the following link)
+=> https://try-setanta.ie/editor/EhEKBlNjcmlwdBCAgIDg2pGeCg Online demo
+
+This project is an amazing idea, and I'm so glad I found it, flicking through the explore tab has some great results!
+Eoin did an amazing job, and who knows? Maybe the next big language won't be English...
+
+Bhuel, már a dearfá:
+> “Ní bhíonn an rath acht mar a mbionn an smach”
+
