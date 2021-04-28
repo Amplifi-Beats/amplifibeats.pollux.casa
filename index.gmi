@@ -14,15 +14,12 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 * Coding html/css and gemini markup (duh)
 * linux, and other operating systems
 * Websites and weird software
-
-## Stuff i've done
-(http)
-=> https://gist.github.com/Amplifi-Beats/57b9f7011e5ca92221cac2f6ba748bd1 Amfora config
-(gemini)
-=> log/9-4-21-softwareilike.gmi compiled a list of software i like
+* Speaking "as Gaielge" when I feel like it
 
 
-
+## Study notes
+=> log/28-4-12-studyintro.gmi Introduction to my study notes
+=> log/28-4-21-anmodhcoiniollach.gmi 2021-04-28 - [Irish] An Modh Coiníollach (the conditional tense)
 
 ## Log
 => log/25-4-21-wslisawesome.gmi 2021-04-25 - [blog] WSL is awesome!
@@ -43,14 +40,16 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 * Upload some project files (flp and rrp)
 * learn how to format stuff better
 
+## Stuff i've done
+=> https://gist.github.com/Amplifi-Beats/57b9f7011e5ca92221cac2f6ba748bd1 I made an amfora config
+=> https://github.com/gianxddddd/ArchoMusic translated Archo Music into Irish
+=> https://github.com/OpenBlocksTeam/openblocks-app translated OpenBlocks into Irish
+
 
 ### Cool stuff on the smolnet
 => gemini://tictactoe.lanterne.chilliet.eu Tic Tac Toe
 => gemini://gemini-textboard.fgaz.me a message board
 
-```
-+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/
-```
 
 ### where can you find me?
 * github / gitlab : amplifi-beats

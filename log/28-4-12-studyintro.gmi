@@ -1,0 +1,27 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _       _             _ _
+   / \   _ __ ___  _ __ | (_)/ _(_)  ___| |_ _   _  __| (_) ___  ___
+  / _ \ | '_ ` _ \| '_ \| | | |_| | / __| __| | | |/ _` | |/ _ \/ __|
+ / ___ \| | | | | | |_) | | |  _| | \__ \ |_| |_| | (_| | |  __/\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |___/\__|\__,_|\__,_|_|\___||___/
+```
+
+# Studying
+
+No one likes it, not a lot do it well. So I'm gonna make some studying easier, by making and posting study notes
+
+The subject I follow may vary, but will be somewhere along the lines of:
+* Irish
+* Maths
+* Music
+* History
+* Geography
+* English
+* Science
+
+
+So yeah, hopefully this will be a good way of making studying easier to remember
+
+idk.

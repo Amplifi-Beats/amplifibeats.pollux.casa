@@ -1,0 +1,88 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _       _             _ _
+   / \   _ __ ___  _ __ | (_)/ _(_)  ___| |_ _   _  __| (_) ___  ___
+  / _ \ | '_ ` _ \| '_ \| | | |_| | / __| __| | | |/ _` | |/ _ \/ __|
+ / ___ \| | | | | | |_) | | |  _| | \__ \ |_| |_| | (_| | |  __/\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |___/\__|\__,_|\__,_|_|\___||___/
+```
+
+> Níl aon tintéan mar do thintéan féin
+> There is no place like home
+
+# Cad é an Modh Coiníollach?
+(this will be in English, I'm lazy)
+This is the conditional tense (or mode), to express an action that can/might/would happen. For example, I would run, you would eat, she would sit, we would play.
+
+Just to clarify to anyone not studying Irish, this is a scary tense, but some common phrases are actually in the Conditional tense! Although in a simpler form (which is a great way of boosting points if you're Ordinary level):
+
+* Cad é ba mhaith leat?: What would you like?
+* Ar mhaith leat cupán tae?: Would you like a cup of tea?
+* Ba mhaith.:  Yes (“I would”)
+* Níor mhaith: No (“I wouldn’t”) 
+
+
+## Syntax
+just a quick rundown of how you read it:
+
+English:
+> I would be rich and famous, if I had my dream job
+
+Irish:
+> Dá mbeadh an post aislingeach agam, bheinn clú agus cáiliúil
+
+in literal English this means:
+> If I had my dream job, I would be rich and famous
+
+All verbs are in the modh coiníollach in a sentence!
+
+> My phone would break if you kicked it
+this makes sense in English
+> My phone would break if you would kick it
+is how you say it in Irish (with a literal translation)
+> Bhrisfeadh mo fón póca dá dtabharfá cic dó
+how you say it as Gaielge
+
+btw this will be as Gaielge from now on...
+
+# An chéad Réimniú - The First Group
+(siolla amháin)
+
+## Rialacha
+* Séimhiú ag tús an bhriathair. Mar shampla: Chuirfinn
+* ní + Séimhiú roimh an mbriathar san fhoirm dhíultach. Mar shampla: Ní ghlanfadh sí. (Ní chuirtear "h" ar briathar a thosaíonn le guta: ní íocfainn.)
+* " D' " roimh ghuta nó roimh briathar a thosaíonn le "f": D'íocfainn
+* an + urú san fhoirm ceisteach: An mbuailfeá leis?
+* _fimis: nuair atá "sinn" i gceist agus nuair a chríochnaíonn an fhréamh ar chonsan caol: Rithfimis
+* _famis: ^ ach consan leathan: D'ólfaimis
+
+## Líon - to fill
+(siolla amháin, leathan)
+
+* mé: líonfainn
+* tú: líonfá
+* sé/sí: líonfadh sé/sí
+* sinn: líonfaimis
+* sibh: líonfadh sibh
+* siad: líonfaidis
+* saor: líonfaí
+ceisteach: an líonfadh mé? 
+díultach: ní líonfadh sé
+
+## Rith - to run
+(siolla amháin, caol)
+
+* mé: rithfinn
+* tú: rithfeá
+* sé/sí: rithfeadh sé/sí
+* sinn: rithfimis
+* sibh: rithfeadh sibh
+* siad: rithfidís
+* saor: rithfí
+ceisteach: an rithfeadh tú?  
+díultach: ní rithfeadh sí
+
+
+Bhuel, sin é.
+Scríobhfaidh mé post eile faoin Modh Coiníollach (an dara réimniú, briathar neamhrialta, etc.)
