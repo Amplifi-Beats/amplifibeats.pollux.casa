@@ -1,0 +1,52 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _       _             _ _
+   / \   _ __ ___  _ __ | (_)/ _(_)  ___| |_ _   _  __| (_) ___  ___
+  / _ \ | '_ ` _ \| '_ \| | | |_| | / __| __| | | |/ _` | |/ _ \/ __|
+ / ___ \| | | | | | |_) | | |  _| | \__ \ |_| |_| | (_| | |  __/\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |___/\__|\__,_|\__,_|_|\___||___/
+```
+
+> An té a bhfuil builín aige gheobhaidh sé scian lena ghearradh
+> The one who has a loaf will get a knife to cut it
+
+(please read part one if you haven't done so)
+=> log/28-4-21-anmodhcoiniollach.gmi
+
+# An Dara Réimniú - The Second Group
+(dhá siolla)
+
+## Rialacha
+* Séimhiú ag tús an bhriathair. Mar shampla: Cheisteoinn
+* ní + Séimhiú roimh an mbriathar san fhoirm dhíultach. Mar shampla: Ní cheisteoidh sí. (Ní chuirtear "h" ar briathar a thosaíonn le guta: ní aimseoinn.)
+* " D' " roimh ghuta nó roimh briathar a thosaíonn le "f": D'ullmhódh
+* an + urú san fhoirm ceisteach: An mbuailfeá leis?
+* _eoimis: nuair atá "sinn" i gceist agus nuair a chríochnaíonn an fhréamh ar chonsan caol: D'imreoimis
+* _óimis: ^ ach consan leathan: D'osclóimis
+
+## Ceistigh - to Question
+(dhá siolla, leathan)
+
+* mé: cheisteoinn
+* tú: cheisteofá
+* sé/sí: cheisteodh sé/sí
+* sinn: cheisteoimis
+* sibh: cheisteodh sibh
+* siad: cheisteoidís
+* saor: cheisteofaí
+ceisteach: an cheisteoinn mé? 
+díultach: ní cheisteodh sé
+
+## Labhair - to Speak
+(dhá siolla, caol)
+
+* mé: labhróinn
+* tú: labhrófá
+* sé/sí: labhródh sé/sí
+* sinn: labhróimis
+* sibh: labhródh sibh
+* siad: labhróidís
+* saor: labhrófaí
+ceisteach: an labhróimis?  
+díultach: ní labhróimis

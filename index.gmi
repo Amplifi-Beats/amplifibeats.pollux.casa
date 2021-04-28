@@ -19,7 +19,8 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 ## Study notes
 => log/28-4-12-studyintro.gmi Introduction to my study notes
-=> log/28-4-21-anmodhcoiniollach.gmi 2021-04-28 - [Irish] An Modh Coiníollach (the conditional tense)
+=> log/28-4-21-anmodhcoiniollach.gmi 2021-04-28 - [Irish] An Modh Coiníollach (the conditional tense) - Part 1
+=> log/28-4-21-anmodhcoiniollachpart2.gmi 2021-04-28 - [Irish] An Modh Coiníollach (the conditional tense) - Part 2
 
 ## Log
 => log/25-4-21-wslisawesome.gmi 2021-04-25 - [blog] WSL is awesome!
