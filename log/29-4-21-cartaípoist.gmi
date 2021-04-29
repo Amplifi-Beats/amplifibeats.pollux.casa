@@ -1,0 +1,64 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _       _             _ _
+   / \   _ __ ___  _ __ | (_)/ _(_)  ___| |_ _   _  __| (_) ___  ___
+  / _ \ | '_ ` _ \| '_ \| | | |_| | / __| __| | | |/ _` | |/ _ \/ __|
+ / ___ \| | | | | | |_) | | |  _| | \__ \ |_| |_| | (_| | |  __/\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |___/\__|\__,_|\__,_|_|\___||___/
+```
+
+> Beagán a rá agus é a rá go maith
+> Say little but say it well
+
+# An file
+
+## Louis De Paor
+Rugadh é i gCorcaigh i 1961. Chuaigh sé go dtí an Astráil i mbliain 1987 tosc go bhfuil ba múinteor é. Bhuaigh sé Duais an Riordánaigh i mbliain 1977.
+
+# An dán
+
+> An t-aer ina chriathar bán
+> ag craos glórach na bhfaoileán
+> os cionn an tráiléara
+> ag teacht chun cuain
+> is clogáin na ngabhar
+> ag bualadh go toll
+> i measc na gcrann líomóin.
+
+> Seanbhean i bhfeisteas caointe
+> cromtha faoi ualach paidreacha
+> ina ciaróg chráifeach
+> ag triall ar an aragal
+> cois cladaigh
+> is clog práis slóchta le meirg
+> ag casachtaigh sa séipéal aoldaite.
+
+> Leannáin órtha ag siúl na trá
+> ag éisteacht le bladar na farraige
+> is aoire cianaosta
+> i dtábhairne ar bharr cnoic
+> ag imirt fichille le hiarlais
+> i mbrístín snámha,
+> a gharmhac bán ó Bhronx Nua-Eabhrac.
+
+> Ar ardán os cionn na trá
+> breacaimid aibítir solais ar phár
+> is seolaimid ár mbeannachtaí gréine
+> ar chártaí poist go hÉirinn.
+
+# Achroimre ar an dán
+
+(i mo fhocail féin)
+
+Bhí an spéir cosúil le chriathar mar bhí a lan faoiléan ag eitilt ann. Bhí siad ag eitilt os cionn bád a bhí ag dul go dtí an caladh. Bhí clóg ar na gabhair ag buaileadh sna crann liomóin.
+
+Bhí seanbhean in eadaí dubha cromtha síos cosúil le ciaróg ag rá paidreacha agus ag dul go dtí an seipéal in aice leis an gcuain. Bhí an clos práis ag buaileadh sa seipéal.
+
+Bhí beirt duine ag siúl ar na trá agus ag éisteacht le fuaim na farraige. Bhí seanaoir in óstán ar bharr an cnoic, ag imirt fichille le duine difrúil, Bhí an duine caitheamh bríste snámha. Ba as Meiriceá é.
+
+Bhí an file os cionn na trá agus bhí sé ag scriobh cartaí poist go hEirinn.
+
+
+
+Bhuel, sin é...
