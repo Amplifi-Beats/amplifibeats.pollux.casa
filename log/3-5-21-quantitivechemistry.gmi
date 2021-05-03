@@ -1,0 +1,49 @@
+=> ../index.gmi [..]
+
+```
+    _                    _ _  __ _       _             _ _
+   / \   _ __ ___  _ __ | (_)/ _(_)  ___| |_ _   _  __| (_) ___  ___
+  / _ \ | '_ ` _ \| '_ \| | | |_| | / __| __| | | |/ _` | |/ _ \/ __|
+ / ___ \| | | | | | |_) | | |  _| | \__ \ |_| |_| | (_| | |  __/\__ \
+/_/   \_\_| |_| |_| .__/|_|_|_| |_| |___/\__|\__,_|\__,_|_|\___||___/
+```
+
+# Formulae
+The chemical formula of a compound shows how many of each type of atom join together to make the units which make up the compound.
+For example, in Iron Sulfide every iron atom is joined to one sulfur atom, thus its formula is FeS. In sodium dioxide, there are 2 sodium for every oxygen. Formula being Na₂O. (Numbers are subscript)
+
+there are other more complex formulae. for example:
+* Na₂SO₄  - Sodium sulfate
+  2 Sodium (Na₂) + 1 sulfur (S) + 4 Oxygen (O₄)
+
+* Fe(OH)₃  - Ferric oxyhydroxide
+  1 Iron (Fe) + 3 Hydrogen & Oxygen ((OH)₃) - the brackets make it easier to write
+
+# Chemical Equations
+Word Equations show which chemicals react together (reactants) and what chemicals are produced (products). Symbol Equations allow chemists to work out masses.
+
+## Copper and Oxygen : getting balanced
+
+reactants: copper, oxygen
+products: copper oxide
+equation: Cu + O₂ -> CuO (this is unbalanced!)
+
+we need to adjust values to make the left and right sides balanced:
+2Cu + O₂  -> 2CuO
+```
+0            0O
+    + O O -> 
+0            0O
+```
+
+(copper is 0, O is oxygen)
+
+# State Symbols
+* s   | solid
+* l   | liquid
+* g   | gas
+* aq  | aqueous (dissolved in water)
+
+
+2Na(s)         + 2H₂O(l)         ->  2NaOH(aq)                   + H₂(g)
+2 solid sodium + 2 liquid water  -> 2 Sodium Hydroxide (aqueous) + 2 Hydrogen gas
