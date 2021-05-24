@@ -19,6 +19,7 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 
 ## Study notes
 => log/28-4-21-studyintro.gmi Introduction to my study notes
+=> log/24-05-21-quickupdate.gmi An update on my capsule and notes
 => log/3-5-21-germanstudyprotips.gmi 2021-05-03 - [German] Big Brain Study Tips
 => log/3-5-21-quantitivechemistry.gmi 2021-05-03 - [Science] Quantitive Chemistry - Part 1
 => log/29-4-21-cartaípoist.gmi 2021-04-29 - [Irish] Cartaí Poist - Louis De Paor (Dán) 
@@ -26,6 +27,7 @@ I'm Amplifi! Welcome to my Gemini capsule, here's some stuff I like:
 => log/28-4-21-anmodhcoiniollachpart2.gmi 2021-04-28 - [Irish] An Modh Coiníollach (the conditional tense) - Part 2
 
 ## Log
+=> log/24-05-21-quickupdate.gmi [personal] An update on my capsule and notes
 => log/25-4-21-wslisawesome.gmi 2021-04-25 - [blog] WSL is awesome!
 => log/18-4-21-setantalang.gmi 2021-04-18 - [blog] Setanta Programming Language (as gaielge)
 => log/17-4-21-keyboardlayouts.gmi 2021-04-17 - [blog] Keyboard Layouts
